@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **Imperial Assault app - companion app for a board game**
 - 🌱 I’m currently learning **React native and swift**
+- 📖 I Study computer science at the IT University of Copenhagen
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've never owned a Windows computer... i probably never will
 
