@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theodor Kier</h1>
 <h3 align="center">A computer science student from Denmark</h3>
 
-- 🔭 I’m currently working on **Imperial Assault app - companion app for a board game**
+- 🔭 I’m currently working on the **Website for Tietgen Festival**
 - 🌱 I’m currently learning **React native and Lit**
 - 🤓 Currently working at **Ideanote** as frontend developer
 - 📖 I Study computer science at the IT University of Copenhagen
