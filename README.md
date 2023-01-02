@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Theodor Kier</h1>
 <h3 align="center">A computer science student from Denmark</h3>
 
-- 🔭 I’m currently working on the **Website for Tietgen Festival**
-- 🌱 I’m currently learning **React native and Lit**
+- 🔭 I’m currently working on the **Designing, manufactoring and coding a macropad**
+- 🌱 I’m currently learning **Scala and Lit**
 - 🤓 Currently working at **Ideanote** as frontend developer
 - 📖 I Study computer science at the IT University of Copenhagen
 - 😄 Pronouns: he/him
@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Languages and frameworks:</h3>
 <p align="left">
   <!--
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
