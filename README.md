@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Theodor Kier</h1>
-<h3 align="center">A computer science student from Denmark</h3>
+<h3 align="center">A software developer from Denmark</h3>
 
 - 🔭 I’m currently working on the **Designing, manufactoring and coding a macropad**
-- 🌱 I’m currently learning **Scala and Lit**
-- 🤓 Currently working at **Ideanote** as frontend developer
-- 📖 I Study computer science at the IT University of Copenhagen
+- 🌱 I’m currently learning **Scrumt and Lit**
+- 🤓 Currently working at **Ideanote** as a fullstack developer
+- 📖 I have a Master's degree in Computer Science from the IT University of Copenhagen
 - 😄 Pronouns: he/him
 - ✊ I care about: the environment, equality, digital rights, privacy
 - ⚡ Fun fact: I've never owned a Windows computer... i probably never will
