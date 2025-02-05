@@ -52,6 +52,9 @@
   <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   </a>
+  <a href="https://www.git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/764d13aa-3dcb-4ae6-ad1a-7fd6632a51db" alt="git" width="40" height="40"/>
+  </a>
 </p>
 
 ---
