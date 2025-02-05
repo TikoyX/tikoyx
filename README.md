@@ -46,14 +46,14 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   </a>
   <a href="https://www.git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/764d13aa-3dcb-4ae6-ad1a-7fd6632a51db" alt="git" width="40" height="40"/>
+  	<img src="https://github.com/user-attachments/assets/764d13aa-3dcb-4ae6-ad1a-7fd6632a51db" alt="git" width="40" height="40"/>
   </a>
 </p>
 
@@ -63,20 +63,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/theodor-kier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theodor-kier" height="30" width="40" /></a>
 </p>
-
-
-
-<!--
-**TikoyX/tikoyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
