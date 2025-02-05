@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Denmark</h3>
 
 - 🔭 I’m currently working on the **Designing, manufactoring and coding a macropad**
-- 🌱 I’m currently learning **Scrumt and Lit**
+- 🌱 I’m currently learning **Scrum and Lit**
 - 🤓 Currently working at **Ideanote** as a fullstack developer
 - 📖 I have a Master's degree in Computer Science from the IT University of Copenhagen
 - 😄 Pronouns: he/him
